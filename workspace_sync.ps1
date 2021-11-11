@@ -1,13 +1,4 @@
-################################################################################
-# Fatih Tatoğlu - https://github.com/fatihtatoglu
-################################################################################
-# Instructions
-# 1. Copy this file
-# 2. Create data.ini file
-# 3. Execute script
-################################################################################
 function Initialize-Config {
-    # Reference: https://stackoverflow.com/a/43697842
     $configFile = "data.ini";
 
     $anonymous = "NoSection";

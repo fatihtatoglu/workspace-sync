@@ -27,3 +27,7 @@ This script has one prerequisite for working is PowerShell. For Linux and MacOS 
 ## Contribution
 
 If you want to contribute please open an issue and then let's discuss on it.
+
+## References
+
+For ini parsing operation; [StackOverflow - PowerShell to Read single value from simple .ini file](https://stackoverflow.com/a/43697842)
